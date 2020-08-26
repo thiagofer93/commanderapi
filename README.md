@@ -1,0 +1,1 @@
+Pequeno projeto de Web API que salva comandos cmd. Desenvolvido para fins de treino, principalmente por utilizar DI com práticas de MockUp e, na parte de endpoints, PATCH updates para substituir o método PUT.
